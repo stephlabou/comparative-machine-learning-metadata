@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.2
+flatten_json==0.1.13
+kaggle==1.5.12
+openml==0.12.2
+pandas==1.4.1
+requests==2.27.1
+selenium==4.10.0
+setuptools==63.2.0
+tqdm==4.63.0
+webdriver_manager==3.5.3

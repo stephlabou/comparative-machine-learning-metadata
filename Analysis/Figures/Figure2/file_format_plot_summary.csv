@@ -1,0 +1,55 @@
+"repo","format_category","repo_object_cat_counts","repo_object_cat_perc"
+"dryad","audiovisual",0,0
+"dryad","basic tabular",88,40.1826484018265
+"dryad","code",26,11.8721461187215
+"dryad","compressed",108,49.3150684931507
+"dryad","domain specific",14,6.39269406392694
+"dryad","image",6,2.73972602739726
+"dryad","other",19,8.67579908675799
+"dryad","text based",105,47.945205479452
+"dryad","web",3,1.36986301369863
+"ucsd","audiovisual",0,0
+"ucsd","basic tabular",0,0
+"ucsd","code",0,0
+"ucsd","compressed",24,96
+"ucsd","domain specific",0,0
+"ucsd","image",2,8
+"ucsd","other",2,8
+"ucsd","text based",23,92
+"ucsd","web",1,4
+"dataverse_datasets","audiovisual",3,1.11524163568773
+"dataverse_datasets","basic tabular",137,50.9293680297398
+"dataverse_datasets","code",88,32.7137546468402
+"dataverse_datasets","compressed",86,31.9702602230483
+"dataverse_datasets","domain specific",29,10.7806691449814
+"dataverse_datasets","image",30,11.1524163568773
+"dataverse_datasets","other",42,15.6133828996283
+"dataverse_datasets","text based",123,45.724907063197
+"dataverse_datasets","web",7,2.60223048327138
+"figshare_subset","audiovisual",64,0.618536773944138
+"figshare_subset","basic tabular",5751,55.5813279211366
+"figshare_subset","code",242,2.33884217647627
+"figshare_subset","compressed",1602,15.4827486227892
+"figshare_subset","domain specific",125,1.20807963660965
+"figshare_subset","image",560,5.41219677201121
+"figshare_subset","other",219,2.1165555233401
+"figshare_subset","text based",3001,29.0035759157244
+"figshare_subset","web",56,0.541219677201121
+"zenodo_subset","audiovisual",2,0.09021199819576
+"zenodo_subset","basic tabular",400,18.042399639152
+"zenodo_subset","code",146,6.58547586829048
+"zenodo_subset","compressed",1595,71.9440685611186
+"zenodo_subset","domain specific",124,5.59314388813712
+"zenodo_subset","image",94,4.23996391520072
+"zenodo_subset","other",140,6.3148398737032
+"zenodo_subset","text based",383,17.275597654488
+"zenodo_subset","web",25,1.127649977447
+"uci","audiovisual",2,0.343053173241852
+"uci","basic tabular",88,15.0943396226415
+"uci","code",13,2.22984562607204
+"uci","compressed",283,48.5420240137221
+"uci","domain specific",130,22.2984562607204
+"uci","image",6,1.02915951972556
+"uci","other",53,9.09090909090909
+"uci","text based",188,32.2469982847341
+"uci","web",31,5.31732418524871
