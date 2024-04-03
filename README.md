@@ -70,7 +70,7 @@ Note: UC San Diego Library metadata from Labou et al. 2024 was extracted manuall
 ### `Analysis\` folder
 
 #### Summary statistics and tables
-The `Repository_calculations` folder contains a subfolder for each repository that contains Jupyter notebook used in analysis. Note that actual metadata extracts are too large for GitHub and are instead available in the UC San Diego Library Research Data Digital Collections. To run the notebooks, download the associated metadata extract (JSON format except for UC San Diego Library metadata) and save it in the same repository folder.
+The `Repository_calculations` folder contains a subfolder for each repository that contains Jupyter notebook used in analysis. Note that actual metadata extracts are too large for GitHub and are instead available in the [associated collection in the UC San Diego Library Research Data Digital Collections](https://doi.org/10.6075/J0JS9QMH). To run the notebooks, download the associated metadata extract (JSON format except for UC San Diego Library metadata) and save it in the same repository folder.
 
 For example, current GitHub directory structure for sample repositories is:
 
