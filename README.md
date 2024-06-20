@@ -1,7 +1,6 @@
-This repository includes data and code for Labou et al. 2024. [full citation and link TBD]
+This repository includes data and code for [Labou et al. 2024](https://doi.org/10.7191/jeslib.685).
 
 ## Directory Overview
-
 
 ```bash
 ├───Analysis
